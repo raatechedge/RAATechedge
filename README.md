@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I’m <span style="color:#0000FF">Rui Antonio Alberto</span></h1>
-<h3 align="center">💻 Network Security Engineer & Cybersecurity Analyst </h3>
+<h3 align="center">💻 Network Security Engineer | Cybersecurity Analyst </h3>
 
  👨🏾‍💻 About Me
 
