@@ -1,10 +1,10 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I’m <span style="color:#0000FF">Rui Antonio Alberto</span></h1>
-<h3 align="center">💻 Network Security Engineer | Cybersecurity Analyst </h3>
+<h3 align="center">💻 Network Security Engineer | Blue Teamer </h3>
 
  👨🏾‍💻 About Me
 
-Hello, I am **Rui Antonio Alberto**, a Network Security Engineer and Cybersecurity Analyst with **5 years of hands-on experience** ranging from helpdesk support to enterprise network engineering. I specialize in designing, implementing, and securing IT systems that drive business growth and resilience.  
+Hello, I am **Rui Antonio Alberto**, a Network Security Engineer and Blue Teamer with **5 years of hands-on experience** ranging from helpdesk support to enterprise network engineering. I specialize in designing, implementing, and securing IT systems that drive business growth and resilience.  
 
 My expertise includes:  
 - **Networking & Security**: Routing & Switching, Firewalls (Cisco ASA, Fortinet, Palo Alto, CheckPoint), VPNs.  
