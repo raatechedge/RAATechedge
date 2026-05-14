@@ -1,10 +1,10 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I’m <span style="color:#0000FF">Rui Antonio Alberto</span></h1>
+<h1 align="center">👋 Hi, I’m <span style="color:#0000FF">Rui António Alberto</span></h1>
 <h3 align="center">💻 Principal Network Security Engineer </h3>
 
  👨🏾‍💻 About Me
 
-Hello, I am **Rui Antonio Alberto**, a Network Security Engineer and Blue Teamer with **5 years of hands-on experience** ranging from helpdesk support to enterprise network engineering. I specialize in designing, implementing, and securing IT systems that drive business growth and resilience.  
+Hello, I am **Rui António Alberto**, a Network Security Engineer and Blue Teamer with **5 years of hands-on experience** ranging from helpdesk support to enterprise network engineering. I specialize in designing, implementing, and securing IT systems that drive business growth and resilience.  
 
 My expertise includes:  
 - **Networking & Security**: Routing & Switching, Firewalls (Cisco ASA, Fortinet, Palo Alto, CheckPoint), VPNs.  
